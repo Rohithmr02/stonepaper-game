@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stonepaper-game/static/css/main.5e52fdff.css",
+    "main.js": "/stonepaper-game/static/js/main.9104939a.js",
+    "index.html": "/stonepaper-game/index.html",
+    "main.5e52fdff.css.map": "/stonepaper-game/static/css/main.5e52fdff.css.map",
+    "main.9104939a.js.map": "/stonepaper-game/static/js/main.9104939a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e52fdff.css",
+    "static/js/main.9104939a.js"
+  ]
+}
